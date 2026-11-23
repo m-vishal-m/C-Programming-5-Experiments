@@ -1,2 +1,2 @@
-# C-Programming-5-Experiments
-My 5 C Programming Experiments
+# C Lab
+My  C Programming Experiments
